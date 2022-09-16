@@ -1,3 +1,3 @@
 # roomraccoon
 
-Import the .sql file to your DB for the app to run.
+Import the .sql file in the db folder to your DB for the app to run.
